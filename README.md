@@ -1,6 +1,27 @@
 # 💫 About Me:
-🔭 I’m currently working on Building a web app with Node.js, Express, and MongoDB<br>🌱 I’m currently learning React JS and Angular JS<br>💬 Ask me about Node.js, Express, MongoDB, or competitive programming/DSA
+🎓 **Education**:  
+- 3rd Year **B.Tech in Mathematics and Computing** at **Dhirubhai Ambani University (DAU)**.  
+- Strong foundation in **algorithms**, **data structures**, and **web development**.
 
+💡 **Projects & Experience**:  
+- Developed **Compostify**, a platform where users can donate surplus food or send it to a compost factory for recycling into fertilizer.
+- Created a **Movies & OTT platform database** to enhance data search and management functionalities.
+
+🏆 **Achievements**:
+- **Top 100 rank** in **IICPC CP camp**, competing among over 12,000 participants.  
+- **4-star rating** on **CodeChef** and **Rank 268** in CodeChef **Starters 159**.  
+- **Codeforces Specialist** with a rating of **1513**.  
+- Participated in the **Odoo hackathon**, where I collaborated with a team to develop innovative solutions in a competitive environment.
+
+🔭 **Currently Working On**:  
+- Building a **full-stack web application** using **Node.js**, **Express**, and **MongoDB**, focusing on backend systems and efficient data management.
+
+🌱 **Currently Learning**:  
+- Expanding my front-end skills with **React.js** and **Angular.js** to develop dynamic, responsive web applications.
+
+💬 **Let's Talk About**:  
+- **Backend Development** with **Node.js**, **Express**, and **MongoDB**—I’m passionate about creating efficient and scalable systems.  
+- **Competitive Programming** and **Data Structures & Algorithms (DSA)**—I enjoy solving complex problems and continually improving my problem-solving techniques.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-boda-674730250) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/boda_bhavya) 
